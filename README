@@ -1,0 +1,44 @@
+Simple Python Calculator
+This is a beginner-friendly Python program that acts as a simple calculator, allowing users to perform basic arithmetic operations. It demonstrates the use of Python functions and interactive input handling.
+
+Features
+The calculator supports the following operations:
+
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Exponentiation (**)
+Modulus (remainder, %)
+Floor Division (quotient, //)
+How to Use:
+Clone the repository:
+git clone https://github.com/yourusername/Simple-Python-Calculator.git  
+Run the program:
+python calculator.py  
+Select an operation by entering the corresponding number (1–7).
+Input two numbers when prompted.
+View the result of the selected operation.
+Example:
+
+Select option:  
+1. Add  
+2. Subtract  
+3. Multiplication  
+4. Divide  
+5. Power  
+6. Modulus  
+7. Floor Divide  
+
+Enter choice (1/2/3/4/5/6/7): 1  
+Enter first number: 10  
+Enter second number: 5  
+10 + 5 = 15 
+
+Key Learning Points:
+
+Function implementation for modularity
+Handling user input and validating choices
+Performing various arithmetic operations
+
+
