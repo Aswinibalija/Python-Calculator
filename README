@@ -3,7 +3,6 @@ This is a beginner-friendly Python program that acts as a simple calculator, all
 
 Features
 The calculator supports the following operations:
-
 Addition (+)
 Subtraction (-)
 Multiplication (*)
@@ -36,9 +35,8 @@ Enter second number: 5
 10 + 5 = 15 
 
 Key Learning Points:
-
-Function implementation for modularity
-Handling user input and validating choices
-Performing various arithmetic operations
+1. Function implementation for modularity
+2. Handling user input and validating choices
+3. Performing various arithmetic operations
 
 
